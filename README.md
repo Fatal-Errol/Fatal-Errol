@@ -1,6 +1,6 @@
 Hello fellow human!
 
-I am **Errol**, a software engineer with 10 years experience on building maintenable enterprise software.
+I am **Errol**, a seasoned software engineer with experience on building maintenable enterprise software.
 
 Nothing much to see here since most of my work are in private companies. I sparingly contribute to open source software that I consume like video addons and hacking my entertainment system.
 
