@@ -1,8 +1,8 @@
 Hello fellow human!
 
-I am **Errol**, a seasoned software engineer with experience on building maintenable enterprise software.
+I am **Errol**, a seasoned software engineer with experience in building maintainable enterprise software.
 
-Nothing much to see here since most of my work are in private companies. I sparingly contribute to open source software that I consume like video addons and hacking my entertainment system.
+Nothing much to see here since most of my work has been in private companies. I contribute occasionally to open source software that I consume like video addons and hacking my entertainment system.
 
 My CV should give you an overview on what my career looks like:
 
